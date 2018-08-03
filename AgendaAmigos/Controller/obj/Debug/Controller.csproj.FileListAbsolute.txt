@@ -1,0 +1,27 @@
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\bin\Debug\Controller.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\bin\Debug\Controller.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\bin\Debug\Modelo.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\bin\Debug\Modelo.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\obj\Debug\Controller.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Controller\obj\Debug\Controller.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\bin\Debug\Controller.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\bin\Debug\Controller.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\bin\Debug\Modelo.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\bin\Debug\Modelo.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\obj\Debug\Controller.csproj.CopyComplete
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\obj\Debug\Controller.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Controller\obj\Debug\Controller.pdb
+E:\Aulas .Net\AgendaAmigos\Controller\bin\Debug\Controller.dll
+E:\Aulas .Net\AgendaAmigos\Controller\bin\Debug\Controller.pdb
+E:\Aulas .Net\AgendaAmigos\Controller\bin\Debug\Modelo.dll
+E:\Aulas .Net\AgendaAmigos\Controller\bin\Debug\Modelo.pdb
+E:\Aulas .Net\AgendaAmigos\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+E:\Aulas .Net\AgendaAmigos\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+E:\Aulas .Net\AgendaAmigos\Controller\obj\Debug\Controller.csproj.CopyComplete
+E:\Aulas .Net\AgendaAmigos\Controller\obj\Debug\Controller.dll
+E:\Aulas .Net\AgendaAmigos\Controller\obj\Debug\Controller.pdb

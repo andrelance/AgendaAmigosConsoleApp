@@ -1,0 +1,24 @@
+c:\users\andre\source\repos\AgendaAmigos\Modelo\bin\Debug\Modelo.dll
+c:\users\andre\source\repos\AgendaAmigos\Modelo\bin\Debug\Modelo.pdb
+c:\users\andre\source\repos\AgendaAmigos\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+c:\users\andre\source\repos\AgendaAmigos\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\AgendaAmigos\Modelo\obj\Debug\Modelo.dll
+c:\users\andre\source\repos\AgendaAmigos\Modelo\obj\Debug\Modelo.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Modelo\bin\Debug\Modelo.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Modelo\bin\Debug\Modelo.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Modelo\obj\Debug\Modelo.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\Modelo\obj\Debug\Modelo.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Modelo\bin\Debug\Modelo.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Modelo\bin\Debug\Modelo.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Modelo\obj\Debug\Modelo.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\Modelo\obj\Debug\Modelo.pdb
+E:\Aulas .Net\AgendaAmigos\Modelo\bin\Debug\Modelo.dll
+E:\Aulas .Net\AgendaAmigos\Modelo\bin\Debug\Modelo.pdb
+E:\Aulas .Net\AgendaAmigos\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+E:\Aulas .Net\AgendaAmigos\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Aulas .Net\AgendaAmigos\Modelo\obj\Debug\Modelo.dll
+E:\Aulas .Net\AgendaAmigos\Modelo\obj\Debug\Modelo.pdb

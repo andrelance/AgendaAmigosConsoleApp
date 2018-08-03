@@ -1,0 +1,56 @@
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\Modelo.dll
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\Repository.dll
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\Modelo.pdb
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\Repository.pdb
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\andre\source\repos\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\Controller.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\Modelo.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\Repository.dll
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\Controller.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\Modelo.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\bin\Debug\Repository.pdb
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\andre\source\repos\AgendaDeAniversariantes\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\Controller.dll
+C:\Users\andre\source\repos\AgendaAmigos\ConsoleApp\bin\Debug\Controller.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\Controller.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\Modelo.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\Repository.dll
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\Controller.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\Modelo.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\bin\Debug\Repository.pdb
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\Andre_Lancelotte_DR1_AT\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\Controller.dll
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\Modelo.dll
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\Repository.dll
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\Controller.pdb
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\Modelo.pdb
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\bin\Debug\Repository.pdb
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Aulas .Net\AgendaAmigos\ConsoleApp\obj\Debug\ConsoleApp.pdb
